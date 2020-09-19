@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>Mongolian</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>KLInfo_Mongolian (qwerty)</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>

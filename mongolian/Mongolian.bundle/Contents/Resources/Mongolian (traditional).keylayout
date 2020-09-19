@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.4.2.314 on 2020-09-16 at 18:09 (GMT+8)-->
-<!--Last edited by Ukelele version 3.4.2.314 on 2020-09-19 at 10:48 (GMT+8)-->
+<!--Last edited by Ukelele version 3.4.2.314 on 2020-09-19 at 13:53 (GMT+8)-->
 <keyboard group="126" id="-1070" name="Mongolian (traditional)" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -187,8 +187,8 @@
             <key code="28" output="*"/>
             <key code="29" output="︶"/>
             <key code="30" output="﹈"/>
-            <key code="31" output=""/>
-            <key code="32" output=""/>
+            <key code="31" output="ᠣ"/>
+            <key code="32" output="ᠥ"/>
             <key code="33" output="﹇"/>
             <key code="34" output=""/>
             <key code="35" output=""/>
