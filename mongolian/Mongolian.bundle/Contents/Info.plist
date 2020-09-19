@@ -8,15 +8,6 @@
 	<string>Mongolian</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
-	<key>KLInfo_Mongolian (mn)</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.mongolian.mongolian(mn)</string>
-		<key>TISIntendedLanguage</key>
-		<string>mn</string>
-	</dict>
 	<key>KLInfo_Mongolian (qwerty)</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
