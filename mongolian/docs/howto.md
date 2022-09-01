@@ -1,5 +1,9 @@
 <!-- wp:group -->
 <div class="wp-block-group"><!-- wp:paragraph -->
+<p><em><strong>Note</strong>: This page has been updated for version 2.0 of the keyboard layout (affecting only the QWERTY Cyrillic keyboard). If you want to update to the new layout, uninstall the previous version first. Some images below may look a little different because I didn't update them, but they should still be close.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>If you want to write in Cyrillic, Macs already have a default keyboard that you can use. Just go to <strong>System Preferences &gt; Keyboard &gt; Input source</strong> and choose <strong>Mongolian</strong> from the add list. The only problem for English speakers is that the layout is completely different than the qwerty keyboard. This article will show you how to install a qwerty style Mongolian Cyrillic keyboard and also a traditional script Mongolian keyboard, both from StudyMongolian.net.</p>
 <!-- /wp:paragraph -->
 
@@ -8,7 +12,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Right-click <a href="http://www.studymongolian.net/wp-content/uploads/Mongolian_1.1.dmg">this link</a> and save the file to your computer to get the installer. (Or if you'd prefer to install the keyboard layout manually, you can view the source files <a href="https://github.com/suragch/mac_keyboard_layouts/tree/master/mongolian">here</a>.)</p>
+<p>Right-click <a href="http://www.studymongolian.net/wp-content/uploads/Mongolian_keyboard_2.0.dmg">this link</a> and save the file to your computer to get the installer. (Or if you'd prefer to install the keyboard layout manually, you can view the source files <a href="https://github.com/suragch/mac_keyboard_layouts/tree/master/mongolian">here</a>.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -128,48 +132,36 @@
 <p>Here is the QWERTY Mongolian keyboard layout for Cyrillic:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"center","id":4028,"sizeSlug":"large"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="http://www.studymongolian.net/wp-content/uploads/qwerty_keyboard_1-1024x346.png" alt="" class="wp-image-4028"/></figure>
+<!-- wp:image {"align":"center","id":4082,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="http://www.studymongolian.net/wp-content/uploads/qwerty_keyboard_2.0_1-1024x425.png" alt="" class="wp-image-4082"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>As much as possible I tried to make the Cyrillic correspond to the Latin letters on a keyboard. The red key (Y), is for choosing a few more special characters. So y+a gives я, y+e gives е, y+u gives ю, y+o gives ё and y+y gives й.</p>
+<p>As much as possible I tried to make the Cyrillic correspond to the Latin letters on a keyboard. I used the number keys for some of the extra Mongolian letters. It might help you to remember them if you notice that certain letters are located above related ones. For example, я is above a, e is above э, ү is above у, ө is above o, etc. Two that might be harder to remember are ъ and ь. They are located on the 5 and 0 keys. You can remember that ъ looks a little like a 5 with the top turned backward, and ь looks a little like a 0 if you only look at the bottom loop.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"center","id":4029,"sizeSlug":"large"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="http://www.studymongolian.net/wp-content/uploads/qwerty_keyboard_5-1024x347.png" alt="" class="wp-image-4029"/></figure>
+<!-- wp:paragraph -->
+<p>Here's what you get if you press Shift plus the letter:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":4083,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="http://www.studymongolian.net/wp-content/uploads/qwerty_keyboard_2.0_2-1024x420.png" alt="" class="wp-image-4083"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>There are a few letters that didn't fit nicely, most notably ө and ү. You have to press Option to get them:</p>
+<p>If you need the numbers press the Option key. You even get a few bonus shortcuts:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"center","id":4031,"sizeSlug":"large"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="http://www.studymongolian.net/wp-content/uploads/qwerty_keyboard_3-1024x346.png" alt="" class="wp-image-4031"/></figure>
+<!-- wp:image {"align":"center","id":4084,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="http://www.studymongolian.net/wp-content/uploads/qwerty_keyboard_2.0_3-1024x420.png" alt="" class="wp-image-4084"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Pressing Shift gives capital letters:</p>
+<p>And the symbols can be found with Shift + Option:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"center","id":4030,"sizeSlug":"large"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="http://www.studymongolian.net/wp-content/uploads/qwerty_keyboard_2-1024x347.png" alt="" class="wp-image-4030"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>Pressing Shift + the red key (Y) gives capital letters for the Y vowels when you subsequently press a lower case version of the letters in the image below:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"center","id":4045,"sizeSlug":"large"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="http://www.studymongolian.net/wp-content/uploads/qwerty_keyboard_6-1024x416.png" alt="" class="wp-image-4045"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>And pressing Shift+Option gives capitals for the Option letters:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"center","id":4032,"sizeSlug":"large"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="http://www.studymongolian.net/wp-content/uploads/qwerty_keyboard_4-1024x346.png" alt="" class="wp-image-4032"/></figure>
+<!-- wp:image {"align":"center","id":4085,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="http://www.studymongolian.net/wp-content/uploads/qwerty_keyboard_2.0_4-1024x418.png" alt="" class="wp-image-4085"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
