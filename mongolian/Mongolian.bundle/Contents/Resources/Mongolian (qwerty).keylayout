@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.4.2.314 on 2020-09-16 at 18:08 (GMT+8)-->
-<!--Last edited by Ukelele version 3.4.2.314 on 2020-09-17 at 20:05 (GMT+8)-->
+<!--Last edited by Ukelele version 359 on 2022-09-01 at 11:53 (GMT-7)-->
 <keyboard group="126" id="-13216" name="Mongolian (qwerty)" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -62,6 +62,7 @@
             <key code="7" output="ш"/>
             <key code="8" output="ц"/>
             <key code="9" output="в"/>
+            <key code="10" output=""/>
             <key code="11" output="б"/>
             <key code="12" output="ч"/>
             <key code="13" output="в"/>
