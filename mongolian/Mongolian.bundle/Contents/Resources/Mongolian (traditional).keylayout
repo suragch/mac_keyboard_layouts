@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.4.2.314 on 2020-09-16 at 18:09 (GMT+8)-->
-<!--Last edited by Ukelele version 3.4.2.314 on 2020-09-19 at 13:53 (GMT+8)-->
+<!--Last edited by Ukelele version 452 on 2025-10-08 at 11:52 (GMT+8)-->
 <keyboard group="126" id="-1070" name="Mongolian (traditional)" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -100,7 +100,7 @@
             <key code="46" output="ᠮ"/>
             <key code="47" output="᠃"/>
             <key code="48" output="&#x0009;"/>
-            <key code="49" output=" "/>
+            <key code="49" action=" "/>
             <key code="50" action="᠎"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
@@ -990,6 +990,10 @@
         </keyMap>
     </keyMapSet>
     <actions>
+        <action id=" ">
+            <when state="none" output=" "/>
+            <when state="Dead Key State 0" output="᠎"/>
+        </action>
         <action id="1">
             <when state="none" output="1"/>
             <when state="Dead Key State 0" output="᠋"/>
@@ -1004,6 +1008,7 @@
         </action>
         <action id="4">
             <when state="none" output="4"/>
+            <when state="Dead Key State 0" output="᠏"/>
         </action>
         <action id="Dead Key State 0">
             <when state="none" next="Dead Key State 0"/>
